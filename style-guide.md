@@ -32,4 +32,5 @@ Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 - Weights: 400
 
 - Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
+font-family: 'Lexend Deca', sans-serif;
 - Weights: 700
